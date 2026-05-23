@@ -1,0 +1,11 @@
+CustomerID,Age,Gender,MonthlyCharges,Tenure,SupportCalls,InternetUsageGB,ContractType,Churn
+1001,22,Male,50,12,1,120,Monthly,No
+1002,35,Female,80,5,5,80,Monthly,Yes
+1003,45,Male,60,24,2,150,Yearly,No
+1004,30,Female,95,3,6,60,Monthly,Yes
+1005,50,Male,70,36,1,200,Yearly,No
+1006,27,Female,85,4,4,75,Monthly,Yes
+1007,40,Male,55,18,2,130,Yearly,No
+1008,29,Female,90,2,7,50,Monthly,Yes
+1009,33,Male,65,20,1,160,Yearly,No
+1010,38,Female,100,1,8,40,Monthly,Yes
